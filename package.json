@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-es6-feature-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v && node --v8-options | grep harm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/nodejs-es6-feature-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/nodejs-es6-feature-check/issues"
+  },
+  "homepage": "https://github.com/i5ting/nodejs-es6-feature-check#readme"
+}
